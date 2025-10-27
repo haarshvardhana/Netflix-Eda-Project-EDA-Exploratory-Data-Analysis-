@@ -44,16 +44,3 @@ The analysis answers the following key questions:
 - The year 2020 saw a surge in movie releases, possibly due to digital-first premieres during the pandemic period.  
 - These findings can help platforms like Netflix fine-tune recommendations and focus more on high-performing genres.
 
----
-
-### 🧾 Files in This Repository
-- `netflix_analysis.ipynb` – Main Jupyter Notebook with full analysis  
-- `netflix_dataset.csv` – Dataset used for this project (if included)  
-- `README.md` – Project documentation (this file)
-
----
-
-### 🚀 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/netflix-movie-insights.git
